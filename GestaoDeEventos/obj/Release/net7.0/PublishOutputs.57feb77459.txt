@@ -1,0 +1,5 @@
+C:\Users\Acer\source\repos\GestaoDeEventos\bin\Release\net7.0\app.publish\GestaoDeEventos.exe
+C:\Users\Acer\source\repos\GestaoDeEventos\bin\Release\net7.0\app.publish\GestaoDeEventos.dll
+C:\Users\Acer\source\repos\GestaoDeEventos\bin\Release\net7.0\app.publish\GestaoDeEventos.deps.json
+C:\Users\Acer\source\repos\GestaoDeEventos\bin\Release\net7.0\app.publish\GestaoDeEventos.runtimeconfig.json
+C:\Users\Acer\source\repos\GestaoDeEventos\bin\Release\net7.0\app.publish\GestaoDeEventos.pdb
